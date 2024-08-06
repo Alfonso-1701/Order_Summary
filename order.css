@@ -1,0 +1,63 @@
+:root{
+    --pale-blue: hsl(225, 100%, 94%);
+    --bright-blue: hsl(245, 75%, 52%);
+
+    --very-pale-blue: hsl(225, 100%, 98%);
+    --desaturated-blue: hsl(224, 23%, 55%);
+    --dark-blue: hsl(223, 47%, 23%);
+
+    --fw-500: 500;
+    --fw-700: 700;
+    --fw-900: 900;
+}
+
+*{
+    font-family: "red hat display", sans-serif;
+    font-size: 16px;
+}
+
+body{
+    text-align: center;
+}
+.shell_background{
+    position: relative;
+}
+.background_mobile{ 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 110vh;
+    z-index: 0;
+}
+.shell_main{
+    position: relative;
+    z-index: 1;
+    background-color: var(--very-pale-blue);
+    width: 90%;
+    margin: 18% auto 0px auto;
+    border-radius: 15px;
+
+}
+.image_main_card{
+    width: 100%;
+    border-radius: 15px 15px 0px 0px;
+}
+h1{
+    font-weight: var(--fw-900);
+    font-size: 1.3rem;
+    margin: 1.5rem;
+}
+.info{
+    padding: 0rem 2rem;
+    color: var(--desaturated-blue);
+    font-weight: var(--fw-500);
+}
+
+
+ 
+button{
+    width: 90%;
+    padding: 1rem;
+    border-radius: 15px;
+    border: none;
+}
