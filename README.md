@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Alfonso-1701/Order_Summary](https://github.com/Alfonso-1701/Order_Summary)
+- Live Site URL: [https://elegant-kataifi-dffbbb.netlify.app](https://elegant-kataifi-dffbbb.netlify.app)
 
 ## My process
 
